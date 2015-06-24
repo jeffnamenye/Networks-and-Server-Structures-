@@ -1,0 +1,5 @@
+$mv myfile.txt ~
+$mv myfile.txt /unix_files
+
+# m h dom mon dow     command
+35  5 15  02  3       ./backup
